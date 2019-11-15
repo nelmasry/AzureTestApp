@@ -15,7 +15,7 @@ namespace AzureTestApp
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
-
+            //test
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
